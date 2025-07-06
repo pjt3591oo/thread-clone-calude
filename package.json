@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pjt3591oo.github.io/thread-clone-calude",
+  "homepage": "https://pjt3591oo.github.io/thread-clone-calude/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
